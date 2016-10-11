@@ -1,3 +1,5 @@
+[![SlugBay Badge](https://www.slugbay.com/pictures/badges/slugbay-simple.svg)](https://www.slugbay.com)
+
 This javascript suggest you an email when it detect a possible mistake.
 
 Examples
